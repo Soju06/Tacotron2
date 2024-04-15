@@ -1,0 +1,6 @@
+__pycache__
+*.pt
+deepspeaker/pretrained_models
+test.wav
+unit_test.ipynb
+output/

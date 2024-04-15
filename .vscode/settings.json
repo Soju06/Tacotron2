@@ -1,0 +1,8 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "python.formatting.provider": "none",
+    "nvidia-smi-plus.refresh.autoRefresh": false,
+    "python.analysis.typeCheckingMode": "basic"
+}
